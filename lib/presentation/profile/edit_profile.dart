@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:login_module/utils/shared_preferences.dart';
 
-import '../../app_colors.dart';
+import '../../utils/app_colors.dart';
 
 class EditProfilePage extends StatefulWidget {
   final String fieldName;

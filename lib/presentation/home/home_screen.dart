@@ -2,9 +2,9 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:login_module/app_colors.dart';
 import 'package:login_module/presentation/login/login_screen.dart';
 import 'package:login_module/presentation/profile/edit_profile.dart';
+import 'package:login_module/utils/app_colors.dart';
 import 'package:login_module/utils/shared_preferences.dart';
 
 class HomePage extends StatefulWidget {

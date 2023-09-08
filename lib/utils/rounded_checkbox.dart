@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:login_module/app_colors.dart';
+import 'package:login_module/utils/app_colors.dart';
 
 class RoundedCheckbox extends StatefulWidget {
   final bool value;
