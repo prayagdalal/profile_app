@@ -1,0 +1,56 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  static const Color base = Colors.cyanAccent;
+  static const Color stroke = Color(0x19000000);
+  static const Color primary = Color(0xff269999);
+  static const Color dot = Color(0xffC1B5E1);
+  static const Color logingradient = Color(0xfff1ecfe);
+  static const Color payment = Color(0xffff1ecfe);
+  static const Color secondary = Color(0xffE9E8E9);
+  static const Color secondary2 = Color(0xff757575);
+  static const Color backgroundColor = Color(0xffFFFFFF);
+  static const Color foregroundColor = Color(0xffFFFFFF);
+  static const Color textAndIconColor = Color(0xff000000);
+  static const Color white = Color(0xffffffff);
+  static const Color black = Color(0xff000000);
+  static const Color mediumGrey = Color(0xff797979);
+  static const Color almostBlack = Color(0xff080908);
+  static const Color blue = Color(0xff5533ff);
+  static const Color hover = Color(0xfff5f4fb);
+  static const Color borderColor = Color(0xfffcac4d0);
+  static const Color red = Colors.red;
+  static const Color k101828 = Color(0xff101828);
+  static const Color k475467 = Color(0xff475467);
+  static const Color commonTextColor = Color(0xff475467);
+
+  static const Color k344054 = Color(0xff344054);
+  static const Color kD0D5DD = Color(0xffD0D5DD);
+  static const Color k667085 = Color(0xff667085);
+  static const Color kEAECF0 = Color(0xffEAECF0);
+  static const Color k98A2B3 = Color(0xff98A2B3);
+  static const Color kFCFCFD = Color(0xffFCFCFD);
+  static const Color k175C5C = Color(0xff175C5C);
+  static const Color k912018 = Color(0xff912018);
+  static const Color kE7C160 = Color(0xffE7C160);
+  static const Color k4E5BA6 = Color(0xff4E5BA6);
+  static const Color k1D2939 = Color(0xff1D2939);
+  static const Color kF8F9FC = Color(0xffF8F9FC);
+  static const Color kF3F3F3 = Color(0xffF3F3F3);
+  static const Color textHighlightColor = Color(0xff1F7A7A);
+  static const Color titleColor = Color(0xff101828);
+  static const Color desColor = Color(0xff475467);
+  static Color shimmerBaseColor = Colors.grey.withOpacity(0.5);
+  static Color shimmerHighlightColor = Colors.grey.withOpacity(0.3);
+  static const Color k29A3A3 = Color(0xff29A3A3);
+  static const Color kF79009 = Color(0xffF79009);
+  static const Color kEBFAFA = Color(0xffEBFAFA);
+  static const Color k17B26A = Color(0xff17B26A);
+  static const Color kF2F4F7 = Color(0xffF2F4F7);
+  static const Color kF9FAFB = Color(0xffF9FAFB);
+  static const Color kD92D20 = Color(0xffD92D20);
+  static const Color kDC6803 = Color(0xffDC6803);
+  static const Color k124747 = Color(0xff124747);
+  static const Color k7A271A = Color(0xff7A271A);
+  static const Color k269999 = Color(0xFF269999);
+}
