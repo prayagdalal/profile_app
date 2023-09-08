@@ -2,9 +2,9 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:login_module/app_colors.dart';
 import 'package:login_module/presentation/home/home_screen.dart';
-import 'package:login_module/rounded_checkbox.dart';
+import 'package:login_module/utils/app_colors.dart';
+import 'package:login_module/utils/rounded_checkbox.dart';
 import 'package:login_module/utils/shared_preferences.dart';
 
 class LoginPage extends StatefulWidget {
@@ -22,11 +22,6 @@ class _LoginPageState extends State<LoginPage> {
   final TextEditingController _passwordController = TextEditingController();
   final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
   bool isChecked = false;
-  @override
-  void initState() {
-    // TODO: implement initState
-    super.initState();
-  }
 
   @override
   Widget build(BuildContext context) {
